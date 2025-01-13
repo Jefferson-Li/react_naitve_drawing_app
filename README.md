@@ -1,7 +1,7 @@
 # react_naitve_drawing_app
 
 # ios 成果圖
-![alt text](image.png)
+![alt text](image-2.png)
 
 # android 成果圖
 ![alt text](image-1.png)
